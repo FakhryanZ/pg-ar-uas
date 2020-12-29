@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="bebek" size="50.000000 59.302326" />
+    <ImageTarget name="kuda" size="50.000000 50.000000" />
+    <ImageTarget name="anjing" size="50.000000 50.000000" />
+    <ImageTarget name="kucing" size="50.000000 33.312500" />
+  </Tracking>
+</QCARConfig>
