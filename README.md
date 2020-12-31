@@ -4,6 +4,8 @@
 
 Aplikasi yang dibuat merupakan pengenalan hewan dan deskripsi hewan tersebut. Aplikasi ditujukan untuk anak berusia 2-5 tahun
 
+[Link Youtube](https://youtu.be/QrgIUDCNyu0)
+
 ## Hasil Akhir
 
 - Image Target
